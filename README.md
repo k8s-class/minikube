@@ -1,8 +1,6 @@
-# minikube
-How to setup and run minikube
+# How to setup and run minikube
 
-  Minikube runs a single node Kubernetes cluster inside a linux VM.
-        It is for users who want to just test it out or use for development.
+
 
             minikube : curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 && chmod +x minikube && sudo cp minikube /usr/local/bin/ && rm minikube
 
